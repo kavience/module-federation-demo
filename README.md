@@ -61,7 +61,7 @@ import React, { Component }  from "module-federation-lib/react";
 
 使用模块联邦后的 demo 如下图所示:
 
-![模块联邦](./module-federation-demo.gif)
+![模块联邦](https://github.com/kavience/module-federation-demo/blob/master/module-federation-demo.gif?raw=true)
 
 
 具体配置可查看相关代码.
